@@ -11,3 +11,4 @@ public class factorial {
         System.out.println(factorial);
     }
 }
+//modified
