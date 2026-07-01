@@ -16,3 +16,4 @@ public class DigitSumOdd {
         System.out.println(sum);
     }
 }
+
